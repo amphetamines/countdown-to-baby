@@ -1,1 +1,1 @@
-# countdown-to-baby
+An extremely elementary countdown application.
