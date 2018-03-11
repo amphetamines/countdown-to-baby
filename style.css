@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+  font-size: 100px;
+  padding-top: 100px;
+  padding-bottom: 700px;
+  font-family: "Arial Black";
+  color: white;
+  background-image: url(Images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: 75%;
+}
+
+body {
+  background-color: black;
+}
